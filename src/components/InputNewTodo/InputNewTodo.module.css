@@ -1,0 +1,6 @@
+/* В модульном CSS по соглашению нужно использовать camelCase - в данном случае newTodo */
+.new-todo {
+  width: 400px;
+  height: 50px;
+  font-size: 30px;
+}

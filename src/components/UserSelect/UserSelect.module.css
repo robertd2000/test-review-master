@@ -1,0 +1,5 @@
+/* имя для селектора "user" неудачное, так как он вешается на select лучше будет назвать userSelect */
+.user {
+  width: 200px;
+  margin-left: 15px;
+}
